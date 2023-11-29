@@ -7,3 +7,15 @@
   "remoteUser": "codespace",
   "overrideCommand": false
 }
+ "customizations": {
+     "vscode": {
+         "extensions": [
+             "GitHub.copilot"
+         ]
+     },
+     "codespaces": {
+         "openFiles": [
+             "codespace.md"
+         ]
+     }
+ }
